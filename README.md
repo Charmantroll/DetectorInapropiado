@@ -1,0 +1,2 @@
+# DetectorInapropiado
+detectar cosas inapropiadas
